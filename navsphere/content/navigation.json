@@ -113,6 +113,14 @@
           "description": "关键词调研，挖掘需求",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "8ba03fbe-11ab-4506-9796-46e65ed65fff",
+          "title": "榜单趋势",
+          "icon": "Book",
+          "description": "从热门榜单中发现流行趋势",
+          "enabled": true,
+          "items": []
         }
       ]
     },
