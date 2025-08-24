@@ -120,7 +120,16 @@
           "icon": "Book",
           "description": "从热门榜单中发现流行趋势",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756039808383_31x30gdxa",
+              "title": "Google Trends",
+              "href": "https://trends.google.com/trends/explore",
+              "description": "访问 trends.google.com,发现搜索趋势",
+              "icon": "/assets/favicon_1756039767756.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
