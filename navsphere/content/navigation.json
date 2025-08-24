@@ -99,6 +99,15 @@
       "enabled": true
     },
     {
+      "id": "1756039545163",
+      "title": "需求分析",
+      "icon": "LayoutGrid",
+      "description": "出海建站从关键词调研、分析榜单寻找需求开始！",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -900,15 +909,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1756039545163",
-      "title": "需求分析",
-      "icon": "LayoutGrid",
-      "description": "出海建站从关键词调研、分析榜单寻找需求开始！",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
