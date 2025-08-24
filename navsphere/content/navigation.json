@@ -105,7 +105,16 @@
       "description": "出海建站从关键词调研、分析榜单寻找需求开始！",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "4eb823c7-c9c8-4788-b7bc-5cce1f4b415a",
+          "title": "关键词调研",
+          "icon": "FileText",
+          "description": "关键词调研，挖掘需求",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "9",
