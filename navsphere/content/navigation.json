@@ -143,6 +143,15 @@
       "subCategories": []
     },
     {
+      "id": "1756132804408",
+      "title": "增长推广",
+      "icon": "BarChart",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -944,15 +953,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1756132804408",
-      "title": "增长推广",
-      "icon": "BarChart",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
