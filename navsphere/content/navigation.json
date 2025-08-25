@@ -944,6 +944,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1756132804408",
+      "title": "增长推广",
+      "icon": "BarChart",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
