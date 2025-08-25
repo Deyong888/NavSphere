@@ -134,6 +134,15 @@
       ]
     },
     {
+      "id": "1756132723383",
+      "title": "网站建设",
+      "icon": "Settings",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -935,15 +944,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1756132723383",
-      "title": "网站建设",
-      "icon": "Settings",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
