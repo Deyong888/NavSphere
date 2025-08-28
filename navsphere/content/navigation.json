@@ -107,14 +107,6 @@
       "items": [],
       "subCategories": [
         {
-          "id": "4eb823c7-c9c8-4788-b7bc-5cce1f4b415a",
-          "title": "关键词调研",
-          "icon": "FileText",
-          "description": "关键词调研，挖掘需求",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "8ba03fbe-11ab-4506-9796-46e65ed65fff",
           "title": "榜单趋势",
           "icon": "Book",
@@ -170,6 +162,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "4eb823c7-c9c8-4788-b7bc-5cce1f4b415a",
+          "title": "关键词调研",
+          "icon": "FileText",
+          "description": "关键词调研，挖掘需求",
+          "enabled": true,
+          "items": []
         }
       ]
     },
