@@ -152,6 +152,14 @@
               "description": "探索App Store 上的顶级应用与游戏。",
               "icon": "/assets/favicon_1756391280392.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756391519119_2vahbl8dj",
+              "title": "X热门话题",
+              "href": "https://x.com/explore/tabs/trending",
+              "description": "获取X上的热门话题",
+              "icon": "/assets/favicon_1756391491607.ico",
+              "enabled": true
             }
           ]
         }
