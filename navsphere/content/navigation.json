@@ -177,6 +177,14 @@
               "description": "Ahref关键词查询器",
               "icon": "/assets/favicon_1756392145635.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756392257950_8ku4eou35",
+              "title": "Semrush关键词研究工具",
+              "href": "https://zh.semrush.com/analytics/keywordmagic/start",
+              "description": "免费关键词研究工具",
+              "icon": "/assets/favicon_1756392223494.ico",
+              "enabled": true
             }
           ]
         }
