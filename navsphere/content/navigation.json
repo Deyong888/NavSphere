@@ -104,16 +104,7 @@
       "icon": "LayoutGrid",
       "description": "出海建站从关键词调研、分析榜单寻找需求开始！",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1756390419679_2uzjjael3",
-          "title": "Traffic.cv: Free Website Traffic Checker",
-          "href": "https://traffic.cv/",
-          "description": "Traffic.cv is a free website traffic checker that allows you to check the traffic of any website. Get traffic volume, sources, trends, top keywords and more.",
-          "icon": "/assets/favicon_1756390401674.ico",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "4eb823c7-c9c8-4788-b7bc-5cce1f4b415a",
@@ -136,6 +127,14 @@
               "href": "https://trends.google.com/trends/explore",
               "description": "访问 trends.google.com,发现搜索趋势",
               "icon": "/assets/favicon_1756039767756.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756390419679_2uzjjael3",
+              "title": "Traffic.cv: Free Website Traffic Checker",
+              "href": "https://traffic.cv/",
+              "description": "Traffic.cv is a free website traffic checker that allows you to check the traffic of any website. Get traffic volume, sources, trends, top keywords and more.",
+              "icon": "/assets/favicon_1756390401674.ico",
               "enabled": true
             }
           ]
