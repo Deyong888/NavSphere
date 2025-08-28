@@ -169,7 +169,16 @@
           "icon": "FileText",
           "description": "关键词调研，挖掘需求",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756392168479_z94h7p7zs",
+              "title": "Free Keyword Generator Tool: Find 100+ Keyword Ideas in Seconds",
+              "href": "https://ahrefs.com/keyword-generator/",
+              "description": "Ahref关键词查询器",
+              "icon": "/assets/favicon_1756392145635.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
