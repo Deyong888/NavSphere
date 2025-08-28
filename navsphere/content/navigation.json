@@ -160,6 +160,14 @@
               "description": "获取X上的热门话题",
               "icon": "/assets/favicon_1756391491607.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756391686199_a3kqt9nos",
+              "title": "TikTok Trends",
+              "href": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/zh",
+              "description": "探索 TikTok 热门趋势榜单",
+              "icon": "/assets/favicon_1756391643711.ico",
+              "enabled": true
             }
           ]
         }
