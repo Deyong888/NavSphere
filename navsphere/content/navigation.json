@@ -222,6 +222,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "1519ce39-ef9c-47b5-89d7-ffb8cf5450b3",
+          "title": "托管平台",
+          "icon": "Box",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
