@@ -196,7 +196,16 @@
       "icon": "Settings",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1756646405426_f18tgy65r",
+          "title": "雨云 - 老一代云服务提供商",
+          "href": "https://www.rainyun.com/rb6bAIpn_",
+          "description": "雨云提供稳定高速的云服务器、游戏云、物理服务器",
+          "icon": "/assets/favicon_1756646378793.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
