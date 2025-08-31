@@ -206,7 +206,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "5ef32a10-fd71-4d31-936a-02eacd3f25b3",
+          "title": "域名注册",
+          "icon": "Network",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1756132804408",
