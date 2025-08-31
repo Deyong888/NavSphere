@@ -214,6 +214,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "983ffa01-8ded-49ae-942a-f7de9ce3ca0f",
+          "title": "云服务器",
+          "icon": "Cloud",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
