@@ -246,7 +246,16 @@
           "icon": "Box",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1735612588184",
+              "title": "Vercel",
+              "href": "https://vercel.com/",
+              "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+              "icon": "/assets/images/logos/vercel.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
@@ -417,14 +426,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1735612588184",
-              "title": "Vercel",
-              "href": "https://vercel.com/",
-              "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-              "icon": "/assets/images/logos/vercel.png",
-              "enabled": true
-            },
             {
               "id": "1735612629450",
               "title": "netlify",
