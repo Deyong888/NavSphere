@@ -204,6 +204,14 @@
           "description": "雨云提供稳定高速的云服务器、游戏云、物理服务器",
           "icon": "/assets/favicon_1756646378793.ico",
           "enabled": true
+        },
+        {
+          "id": "1735612561958",
+          "title": "Cloudflare",
+          "href": "https://dash.cloudflare.com/",
+          "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
+          "icon": "/assets/images/logos/cloudflar.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -409,14 +417,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1735612561958",
-              "title": "Cloudflare",
-              "href": "https://dash.cloudflare.com/",
-              "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
-              "icon": "/assets/images/logos/cloudflar.ico",
-              "enabled": true
-            },
             {
               "id": "1735612588184",
               "title": "Vercel",
