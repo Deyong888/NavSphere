@@ -345,6 +345,14 @@
               "description": "The easiest way to add authentication and user management to your application. Purpose-built for React, Next.js, Remix, and “The Modern Web”.",
               "icon": "/assets/favicon_1756819753979.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756821116465_i8jujpzip",
+              "title": "Clerk登录验证 ",
+              "href": "https://clerk.com/",
+              "description": "The easiest way to add authentication and user management to your application. Purpose-built for React, Next.js, Remix, and “The Modern Web”.",
+              "icon": "/assets/favicon_1756821094575.ico",
+              "enabled": true
             }
           ]
         },
