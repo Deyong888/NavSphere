@@ -353,6 +353,14 @@
               "description": "The easiest way to add authentication and user management to your application. Purpose-built for React, Next.js, Remix, and “The Modern Web”.",
               "icon": "/assets/favicon_1756821094575.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756821184033_oqtmxdt9o",
+              "title": "Supabase 数据库BaaS",
+              "href": "https://supabase.com/",
+              "description": "Build production-grade applications with a Postgres database, Authentication, instant APIs, Realtime, Functions, Storage and Vector embeddings. Start for free.",
+              "icon": "/assets/favicon_1756821152076.png",
+              "enabled": true
             }
           ]
         },
