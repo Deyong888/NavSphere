@@ -304,7 +304,16 @@
           "icon": "Flag",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756819141450_pjev5vugg",
+              "title": "Astro",
+              "href": "https://astro.build/",
+              "description": "Astro 是一个全栈型网络构建框架，能高效创建内容站点、Web应用、服务器API及各类中间项目",
+              "icon": "/assets/favicon_1756819049920.svg",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "e7f1387a-aa7b-4ffa-9e0f-b7919799f678",
