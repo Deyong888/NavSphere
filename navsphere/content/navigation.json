@@ -320,6 +320,14 @@
               "description": "使用开源框架 Nuxt轻松创建高质量的 Web 应用，基于 Vue.js 的全栈开发变得直观高效",
               "icon": "/assets/favicon_1756819207180.png",
               "enabled": true
+            },
+            {
+              "id": "1735265532154",
+              "title": "shadcn ",
+              "href": "https://ui.shadcn.com/",
+              "description": "Build your component library\nBeautifully designed components that you can copy and paste into your apps. Made with Tailwind CSS. Open source.",
+              "icon": "/assets/img_1735265752690.png",
+              "enabled": true
             }
           ]
         },
@@ -475,14 +483,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1735265532154",
-              "title": "shadcn ",
-              "href": "https://ui.shadcn.com/",
-              "description": "Build your component library\nBeautifully designed components that you can copy and paste into your apps. Made with Tailwind CSS. Open source.",
-              "icon": "/assets/img_1735265752690.png",
-              "enabled": true
-            },
             {
               "id": "1751433573273",
               "title": "shadcn ui  Theme",
