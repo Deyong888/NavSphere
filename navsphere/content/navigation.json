@@ -337,7 +337,16 @@
           "icon": "Settings",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756819831826_wlv047r9q",
+              "title": "Clerk | Authentication and User Management",
+              "href": "https://clerk.com/",
+              "description": "The easiest way to add authentication and user management to your application. Purpose-built for React, Next.js, Remix, and “The Modern Web”.",
+              "icon": "/assets/favicon_1756819753979.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
