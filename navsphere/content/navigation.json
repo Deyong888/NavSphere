@@ -347,6 +347,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "f8ce8242-e625-4dc6-b069-87234ef5ec1f",
+          "title": "支付变现",
+          "icon": "Building",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
