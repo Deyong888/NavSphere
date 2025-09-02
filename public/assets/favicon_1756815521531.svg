@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    path { stroke: #000; }
+    @media (prefers-color-scheme: dark) {
+      path { stroke: #fff; }
+    }
+  </style>
+  <path d="M16 29.3333C23.3638 29.3333 29.3333 23.3638 29.3333 16C29.3333 8.63619 23.3638 2.66666 16 2.66666C8.63619 2.66666 2.66666 8.63619 2.66666 16C2.66666 23.3638 8.63619 29.3333 16 29.3333Z" stroke-width="2" stroke-linecap="round"/>
+  <path d="M21.3333 21.3333L25.3333 25.3333" stroke-width="2" stroke-linecap="round"/>
+</svg>
