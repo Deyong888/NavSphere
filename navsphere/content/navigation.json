@@ -312,6 +312,14 @@
               "description": "Astro 是一个全栈型网络构建框架，能高效创建内容站点、Web应用、服务器API及各类中间项目",
               "icon": "/assets/favicon_1756819049920.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1756819293331_2pw7f207u",
+              "title": "Nuxt框架",
+              "href": "https://nuxt.com/",
+              "description": "使用开源框架 Nuxt轻松创建高质量的 Web 应用，基于 Vue.js 的全栈开发变得直观高效",
+              "icon": "/assets/favicon_1756819207180.png",
+              "enabled": true
             }
           ]
         },
