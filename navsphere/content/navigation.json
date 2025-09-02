@@ -340,9 +340,9 @@
           "items": [
             {
               "id": "site_1756819831826_wlv047r9q",
-              "title": "Clerk | Authentication and User Management",
+              "title": "Clerk ",
               "href": "https://clerk.com/",
-              "description": "The easiest way to add authentication and user management to your application. Purpose-built for React, Next.js, Remix, and “The Modern Web”.",
+              "description": "身份验证和用户管理功能的最简便实现方式。专为 React、Next.js、Remix 及“现代 Web 应用”打造。",
               "icon": "/assets/favicon_1756819753979.ico",
               "enabled": true
             },
