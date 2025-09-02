@@ -185,6 +185,14 @@
               "description": "免费关键词研究工具",
               "icon": "/assets/favicon_1756392223494.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756815286338_nblqpfmem",
+              "title": "Google Keyword Planner",
+              "href": "https://business.google.com/uk/ad-tools/keyword-planner/",
+              "description": "使用谷歌关键词工具进行关键词研究并获取关键词建议。",
+              "icon": "/assets/favicon_1756815118962.png",
+              "enabled": true
             }
           ]
         }
