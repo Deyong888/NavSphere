@@ -131,10 +131,10 @@
             },
             {
               "id": "site_1756391104967_5lamki7us",
-              "title": "AhrefsTop Websites ",
-              "href": "https://ahrefstop.com/websites#trending",
-              "description": "全球访问量前1000名网站榜单，每月更新。",
-              "icon": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\">                             <path d=\"M10 0L20 17H0L10 0Z\" fill=\"#FF5722\"></path></svg>",
+              "title": "Ahrefstop",
+              "href": "https://ahrefstop.com/",
+              "description": "访问 ahrefstop.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ahrefstop.com",
               "enabled": true
             },
             {
