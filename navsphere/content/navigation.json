@@ -134,7 +134,7 @@
               "title": "AhrefsTop Websites ",
               "href": "https://ahrefstop.com/websites#trending",
               "description": "全球访问量前1000名网站榜单，每月更新。",
-              "icon": "https://ahrefstop.com/data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTYiIGZpbGw9IiNGRjczMDAiLz4KPHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBzdHlsZT0ieCU3QzUlN0M5JTdDOSI+CjxwYXRoIGQ9Ik0zIDExTDEwIDRNMTAgNEgzTTEwIDRWMTEiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo8L3N2Zz4K",
+              "icon": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\">                             <path d=\"M10 0L20 17H0L10 0Z\" fill=\"#FF5722\"></path></svg>",
               "enabled": true
             },
             {
