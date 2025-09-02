@@ -237,6 +237,14 @@
               "description": "Namesilo域名",
               "icon": "/assets/favicon_1756815349113.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756815546212_ts39tglug",
+              "title": "Query.Domains:",
+              "href": "https://query.domains/",
+              "description": "免费批量域名可用性检查工具。",
+              "icon": "/assets/favicon_1756815521531.svg",
+              "enabled": true
             }
           ]
         },
