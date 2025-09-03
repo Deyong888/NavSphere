@@ -100,6 +100,14 @@
           "href": "https://xueqiu.com/?md5__1038=28178cb220-lUSUsPJxPrciUMhyTSTrPg_ST9%3DpEEluZPB2ld7s6gShnen6JBqEjxxDqjRKSgh6g%2FTrUTIeTJSJMjT7lTuQO6TETicJdTliTRTTcJ8TOcTBN3J_TH67_MqY3PDsSeliP7rY3geTxEyJXtIi6T1d_HMUVNHg3z7Tvrk6P%2FPqys7cdgJ6%2Fv8P3TPSv3T",
           "description": "",
           "icon": "/assets/favicon_1756709686551.png"
+        },
+        {
+          "id": "site_1756899966720_ysdw4ju92",
+          "title": "Hugging Face AI社区",
+          "href": "https://huggingface.co/",
+          "description": "机器学习社区一站式平台，汇聚开发者协作开发模型、数据集与应用程序。",
+          "icon": "/assets/favicon_1756899870893.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
