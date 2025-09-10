@@ -344,6 +344,14 @@
               "description": "Build your component library\nBeautifully designed components that you can copy and paste into your apps. Made with Tailwind CSS. Open source.",
               "icon": "/assets/img_1735265752690.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757504660573_nx8zpe3qg",
+              "title": "heroui.chat",
+              "href": "https://heroui.chat/?via=480772",
+              "description": "超级美观漂亮的UI库，Vibe Coding",
+              "icon": "/assets/favicon_1757504558190.png",
+              "enabled": true
             }
           ]
         },
