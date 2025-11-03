@@ -977,7 +977,16 @@
       "id": "8",
       "title": "素材资源",
       "icon": "linecons-thumbs-up",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1762134804720_hp1nsdk5d",
+          "title": "免费资源",
+          "href": "https://fmhy.net/",
+          "description": "The largest collection of free stuff on the internet!",
+          "icon": "/assets/favicon_1762134756853.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "8_1",
