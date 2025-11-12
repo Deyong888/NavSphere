@@ -311,6 +311,14 @@
               "description": "全球应用最广的AI驱动开发者平台、代码托管",
               "icon": "/assets/favicon_1756818721385.png",
               "enabled": true
+            },
+            {
+              "id": "site_1762925538834_i9i0fcrnb",
+              "title": "Zeabur",
+              "href": "https://zeabur.com/referral?referralCode=xzywork",
+              "description": "每月免费$5的云服务器平台",
+              "icon": "/assets/favicon_1762925498917.png",
+              "enabled": true
             }
           ]
         },
