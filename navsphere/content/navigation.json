@@ -120,7 +120,16 @@
       "icon": "LayoutGrid",
       "description": "出海建站从关键词调研、分析榜单寻找需求开始！",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1767873713737_uk4g5etsk",
+          "title": "Find Validated SaaS Ideas from User Reviews | SumoTrends",
+          "href": "https://sumotrends.com/",
+          "description": "Analyze 171K+ user reviews to reverse-engineer competitor weaknesses. Find validated market gaps before writing code.",
+          "icon": "/assets/favicon_1767873706710.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "8ba03fbe-11ab-4506-9796-46e65ed65fff",
