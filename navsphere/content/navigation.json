@@ -429,6 +429,14 @@
           "description": "Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.",
           "icon": "/assets/favicon_1755168414977.png",
           "enabled": true
+        },
+        {
+          "id": "site_1770792120836_eexetitkp",
+          "title": "Jitter ·  A fast and simple motion design tool on the web",
+          "href": "https://jitter.video/",
+          "description": "Jitter is a collaborative motion design tool that lets you create professional animations in minutes, no matter your experience with motion.",
+          "icon": "/assets/favicon_1770792106195.png",
+          "enabled": true
         }
       ],
       "subCategories": []
