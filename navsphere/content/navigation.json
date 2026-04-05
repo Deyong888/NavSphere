@@ -445,7 +445,16 @@
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1775355486667_nexr629h9",
+          "title": "Zread",
+          "href": "https://zread.ai/",
+          "description": "Explore Deep Research in Zread, the AI code wiki with multilingual guides, architecture insights, and community buzz, helping you dive into any GitHub repo in depth.",
+          "icon": "/assets/favicon_1775355473827.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
